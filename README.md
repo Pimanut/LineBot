@@ -1,3 +1,10 @@
+hello this my lineBot codes take it and use go find you keys and LLM!
+
+
+
+
+
+
 # LineBot
 
 #main.py
