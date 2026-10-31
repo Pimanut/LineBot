@@ -1,4 +1,7 @@
-hello this my lineBot codes take it and use go find you keys and LLM!
+deelinebot - a silly LINE bot powered by a local AI that chats back just for fun, replying with random jokes
+playful answers and a whole lot of nonsense
+Runs on a local AI for the best privacy and full control, made purely for laughs and zero seriousness
+so if you are bored and just want someone to talk to, this bot is always ready to chat
 
 
 
